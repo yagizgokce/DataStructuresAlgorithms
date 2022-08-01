@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yagiz/CLionProjects/palindrome/Queue.h
+
+/home/yagiz/CLionProjects/palindrome/Stack.h
+Queue.h
+/home/yagiz/CLionProjects/palindrome/Queue.h
+
+/home/yagiz/CLionProjects/palindrome/main.cpp
+Stack.h
+/home/yagiz/CLionProjects/palindrome/Stack.h
+iostream
+-
+

@@ -29,11 +29,11 @@ operations, and it uses singly linked list.
 
 • Second Queue (Queue2)
 
-*** Also, driver class is expected to keep this variable: ***
+***Also, driver class is expected to keep this variable:***
 
 • Stack
 
-*** Queue class desired methods: ***
+***Queue class desired methods:***
 
 • enqueue
 
@@ -45,7 +45,8 @@ operations, and it uses singly linked list.
 
 • clear
 
-*** Stack class desired methods: ***
+***Stack class desired methods:***
+
 • push
 
 • pop
@@ -56,14 +57,14 @@ operations, and it uses singly linked list.
 
 • clear
 
-*** Driver class also has two desired methods: ***
+***Driver class also has two desired methods:***
 
 • bool isPalindrome(String word) => Takes word and checks it is palindrome or not, using the stack
 variable that in the driver class.
 
 • main function
 
-** Commands: **
+**Commands:**
 
 • <word> => check this word is palindrome or not.
   

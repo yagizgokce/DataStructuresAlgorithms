@@ -1,11 +1,4 @@
-
-
-Middle East Technical University
-
-Department of Computer Engineering
-
 **CENG 301**
-
 
 Algorithms and Data Structures
 
